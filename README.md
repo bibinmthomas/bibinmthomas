@@ -1,6 +1,6 @@
 # Hi there 💫 I'm Bibin Mathew Thomas
 🤖 I write in chunks.
-🌱 I’m currently learning Native Application development with Electron 
+🌱 I’m currently learning Native Application development with Electron.js
 
 
 ## 🌐 Socials:
